@@ -4,8 +4,3 @@ Usted y su equipo de trabajo fueron contratados para realizar una calculadora qu
 
 
 
-nombre del repositorio
-prubasAprendicesJulio162021
-
-al dashboard de gitkraten les subiré el link del formulario de entrega
-del reto grupal
